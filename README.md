@@ -347,6 +347,7 @@ python gaussian_wrapping/scripts/launch_nerf_synthetic.py \
 | `--output_dir` | required | Path to output the results |
 | `--gpu_device` | 0 | CUDA device index |
 
+</details>
 
 ## Acknowledgements
 
